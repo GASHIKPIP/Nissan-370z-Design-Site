@@ -1,0 +1,327 @@
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+h1, p, h2 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.obl_h1 {
+	color: white;
+	font-size: 170px;
+	text-align: center;
+}
+
+.obl_p {
+	margin-top: 40px;
+	text-align: center;
+	color: white;
+	font-size: 70px;
+}
+
+.img_obl {
+	margin-left: 800px;
+}
+
+.obl{
+	height: 1600px;
+	background: url(../img/tuman.jpg);
+	background-position: center;
+	background-size: cover;
+	background-color: black;
+}
+
+.f_page {	
+	padding-bottom: 150px;
+	background-color: #1a1a1a;
+	display: flex;	
+}
+
+.mark_2 {
+	margin-top: 200px;
+	margin-left: 600px;
+	width: 1500px;
+}
+
+
+.f_page_h1 {
+	margin-top: 300px;
+	text-align: right;
+	color: white;
+	font-size: 70px;
+}
+
+.f_page_p {
+	margin-top: 40px;
+	text-align: right;
+	color: white;
+	font-size: 35px;
+}
+
+.s_page {
+	margin-top: 200px;
+	margin-left: 600px;
+	display: flex;
+}
+
+.s_page_h1 {
+	color: black;
+	font-size: 70px;
+}
+
+.s_page_h2 {
+	margin-top: 40px;
+	color: black;
+	font-size: 40px;
+}
+
+.s_page_text {
+	margin-top: 100px;
+}
+
+.s_page_p {
+	margin-top: 40px;
+	font-size: 35px;
+}
+
+.img_z_34 {
+	margin-left: 100px;
+	width: 1300px;
+}
+
+.s_page_button_p {
+	font-size: 40px;
+}
+
+.s_page_button {
+	margin-top: 40px;
+	border-radius: 60px;
+	height: 100px;
+	width: 300px;
+	background-color: white;
+}
+
+.t_page {
+	background-color: #1a1a1a;
+	margin-top: 200px;
+	width: 100%;
+	display: flex;
+}
+
+.card {
+	width: 25%;
+}
+
+.card_3 {
+	width: 25%;
+	height: 853px;
+	background: url(../img/3.jpg);
+	background-position: center;
+	background-size: cover;
+}
+
+.t_page_h1 {
+	color: white;
+	font-size: 70px;
+	margin-top: 200px;
+	margin-left: 40px;
+}
+
+.t_page_p {
+	font-size: 30px;
+	color: white;
+	margin-top: 40px;
+	margin-left: 40px;
+}
+
+.t_page_button {
+	height: 100px;
+	width: 250px;
+	border-radius: 50px;
+	background-color: transparent;
+	border: 1px solid white;
+	margin-left: 40px;
+	margin-top: 40px;
+}
+
+.t_page_button_p {
+	font-size: 30px;
+	color: white;
+}
+
+.fo_page {
+	padding-bottom: 100px;
+	padding-top: 250px;
+	display: flex;
+	background-color: #1a1a1a;
+	justify-content: space-between;
+}
+
+.card_p {
+	margin-top: 40px;
+	font-size: 40px;
+	color: white;
+}
+
+.card_p_2 {
+	margin-top: 40px;
+	font-size: 40px;
+	color: white;
+	text-align: right;
+}
+
+.wheel {
+	width: 180px;
+}
+
+.people {
+	margin-left: 470px;
+	width: 175px;
+}
+
+.star {
+	margin-left: 470px;
+	width: 170px;
+}
+
+.security {
+	margin-left: 470px;
+}
+
+.cards_1 {
+	display: block;
+	margin-left: 300px;
+}
+
+.cards_2 {
+	display: block;
+	margin-right: 300px;
+}
+
+.z350z {
+	width: 800px;
+}
+
+.card_button {
+	margin-top: 40px;
+	width: 250px;
+	height: 100px;
+	border-radius: 50px;
+	background-color: transparent;
+	border: 4px solid #454545;
+}
+
+.card_button_2 {
+	margin-top: 40px;
+	margin-left: 400px;
+	width: 250px;
+	height: 100px;
+	border-radius: 50px;
+	background-color: transparent;
+	border: 4px solid #454545;
+}
+
+.card_button_pp {
+	font-size: 30px;
+	color: #454545;
+}
+
+.scard {
+	margin-top: 80px;
+}
+
+.t_card {
+	margin-top: 80px;
+}
+
+.fif_card {
+	margin-top: 120px;
+}
+
+.six_card {
+	margin-top: 80px;
+}
+
+.six_page {
+	width: 100%;
+	height: 1300px;
+	background: url(../img/370z_motion.jpeg);
+	background-position: center;
+	background-size: cover;
+}
+
+.six_page_text {
+	margin-left: 300px;
+}
+
+.six_page_h1 {
+	padding-top: 250px;
+	color: white;
+	font-size: 70px;	
+}
+
+.six_page_h2 {
+	margin-top: 60px;
+	color: white;
+	font-size: 60px;
+}
+
+.six_page_p {
+	line-height: 1.9;
+	margin-top: 60px;
+	color: white;
+	font-size: 40px;
+}
+
+.six_page_button {
+	margin-top: 60px;
+	width: 250px;
+	height: 100px;
+	border-radius: 50px;
+	background-color: transparent;
+	border: 4px solid white;
+}
+
+.six_page_button_p {
+	font-size: 40px;
+	color: white;
+}
+
+.seven_page {
+	padding-top: 150px;
+	background-color: #85a2a6;
+}
+
+.seven_page_cards {
+	margin-top: 170px;
+	margin-left: 300px;
+	width: 80%;
+	justify-content: space-between;
+	display: flex;
+}
+
+.seven_page_cards_2 {
+	margin-top: 120px;
+	margin-left: 300px;
+	width: 76%;
+	justify-content: space-between;
+	display: flex;
+}
+
+.seven_page_h1 {
+	font-size: 100px;
+	color: white;
+	margin-left: 290px;
+}
+
+.h2_card {
+	color: white;
+	font-size: 70px;
+	margin-bottom: 20px;
+}
+
+.p_card {
+	color: white;
+	font-size: 30px;
+}
